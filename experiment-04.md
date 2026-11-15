@@ -67,6 +67,7 @@ Copied exactly as I typed them.
 ### Next I'd try
 
 - Get Round 3 working as a 3D page too, so all three rounds can be explored in the browser.
+- Give my Round 3 prompt to the older models (Fable 5 and GPT-6 Astra), to see how much of the improvement came from the prompt and how much from the newer model.
 - Use a screenshot from one of my 3D models as the input in my Experiment 3 setup, because that's closer to what architects actually use, and see if the room stays accurate.
 
 [← Back to the front page](README.md)
