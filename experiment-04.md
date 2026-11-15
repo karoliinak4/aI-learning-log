@@ -52,7 +52,7 @@ Copied exactly as I typed them.
 
 ### What I learned
 
-- **It's not only the model.** Each round I changed two main things at once: the model and the prompt. I can say the whole setup got much better but it's also very important to make a strong prompt and to use tools. With the new models and updates coming out, it takes time until people discover their power. A good tip from my brother : it's good to keep an eye on X, the best way to learn about AI and what other people do.
+- **It's not only the model.** Each round I changed two main things at once: the model and the prompt. I can say the whole setup got much better but it's also very important to make a strong prompt and to use tools. With the new models and updates coming out, it takes time until people discover their power. A good tip from my brother: it's good to keep an eye on X, the best way to learn about AI and what other people do.
 
   Looking back, the prompt was probably the biggest update, and Round 2 could have been better with a stronger prompt too. As my brother put it: over time you push the boundaries. When Fable 5 came out, it was amazing that it could do 3D at all, so we didn't even think to try Blender and Unreal.
 - **What is new and cool today, might not be relevant tomorrow.** The way the first model was built is very outdated today. Same goes with most things with AI.
