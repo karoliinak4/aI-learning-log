@@ -4,7 +4,7 @@
 
 **Input every time:** the floor plan (very basic) and around 25 photos of the rooms. I left the address and the floor plan out of this page on purpose.
 
-I got guidance on this from my brother who is a tech engineer. Round 3 used a 3D toolkit (../../3d) my brother made by having Claude Code search X posts and GitHub repos and put the best tools together.
+I got guidance on this from my brother who is a tech engineer. Round 3 used a 3D toolkit my brother made by having Claude Code search X posts and GitHub repos and put the best tools together.
 
 ---
 
@@ -52,9 +52,11 @@ Copied exactly as I typed them.
 
 ### What I learned
 
-- **It's not only the model.** Each round I changed two main things at once: the model and the prompt. I can say the whole setup got much better but it's also very important to make a strong prompt and to use tools. With the new models and updates coming out, it takes time until people discover their power. A good tip from my bother : it's good to keep an eye on X, the best way to learn about AI and what other people do.
-- **What is new and cool today, might not be relevant tomorrow .** The way the first model was built is very outdated today. Same goes with most things with AI.
-- **The layout was right from the start.** Even Round 1 put the furniture in the right places. The big jumps was in realism, big thanks to blender and unreal.
+- **It's not only the model.** Each round I changed two main things at once: the model and the prompt. I can say the whole setup got much better but it's also very important to make a strong prompt and to use tools. With the new models and updates coming out, it takes time until people discover their power. A good tip from my brother : it's good to keep an eye on X, the best way to learn about AI and what other people do.
+
+  Looking back, the prompt was probably the biggest update, and Round 2 could have been better with a stronger prompt too. As my brother put it: over time you push the boundaries. When Fable 5 came out, it was amazing that it could do 3D at all, so we didn't even think to try Blender and Unreal.
+- **What is new and cool today, might not be relevant tomorrow.** The way the first model was built is very outdated today. Same goes with most things with AI.
+- **The layout was right from the start.** Even Round 1 put the furniture in the right places. The big jumps were in realism, big thanks to blender and unreal.
 
 ### What I'd still fix
 
