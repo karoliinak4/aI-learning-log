@@ -1,4 +1,4 @@
-# Experiment 0 — Nov 2026
+# Experiment 0 — AI image work — Nov 2026
 
 **My work from AI Video Bootcamp.** Three photos, each created with a different purpose. 
 

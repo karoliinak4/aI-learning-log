@@ -10,8 +10,8 @@ I've always been curious about the world of AI and I started learning AI video m
 
 ## Creative work
 
-**[Experiment 0 — Bootcamp work](experiment-00.md)**
-Samples of my creations from the AI Video Bootcamp and The Reel Studio courses.
+**[Experiment 0 — AI image work](experiment-00.md)**
+Samples of my image creations from the AI Video Bootcamp and The Reel Studio courses.
 
 **[Experiment 4 — One apartment, three AI models](experiment-04.md)**
 I rebuilt my parents' apartment in 3D three times between July and November. Each time I used a newer AI model and I witnessed big improvements. Try [Round 1](https://claude.ai/artifact/G5kgYgDm56qwGTLdSSsH7w) and [Round 2](https://claude.ai/artifact/DgagVXnPVq53nVFKwBR2Qf) in your browser.
