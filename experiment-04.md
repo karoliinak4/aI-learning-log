@@ -52,7 +52,7 @@ Copied exactly as I typed them.
 
 ### What I learned
 
-- **It's not only the model.** Each round I changed two things at once: the model and the prompt. So I can't say "Fable 5.2 is X times better than Fable 5". I can say the whole setup got much better.
+- **It's not only the model.** Each round I changed three things at once: the model, the prompt and the tools (code, then Blender, then Unreal Engine). So I can't say "Fable 5.2 is X times better than Fable 5". I can say the whole setup got much better.
 - **More realism brings new mistakes.** Round 1 was simple, so it had a few weird things. Round 2 looked much more real, but more random things popped up.
 - **The layout was right from the start.** Even Round 1 put the furniture in the right places. The big jumps were in light and materials.
 
