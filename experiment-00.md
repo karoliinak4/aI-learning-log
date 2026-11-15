@@ -1,5 +1,7 @@
 # Experiment 0 — AI image work — Nov 2026
 
+*More of my work is still being uploaded.*
+
 **My work from AI Video Bootcamp.** Three photos, each created with a different purpose. 
 
 **Tools:** Midjourney, Promptwise (to test different models), Higgsfield, Claude and ChatGPT (to help write and improve prompts)
