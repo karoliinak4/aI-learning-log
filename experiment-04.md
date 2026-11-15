@@ -67,6 +67,6 @@ Copied exactly as I typed them.
 ### Next I'd try
 
 - Get Round 3 working as a 3D page too, so all three rounds can be explored in the browser.
-- A screenshot from one of the 3D models is exactly the kind of input an architect gives a renderer. I want to put it through my Experiment 3 setup and see how much geometry survives.
+- Use a screenshot from one of my 3D models as the input in my Experiment 3 setup, because that's closer to what architects actually use, and see if the room stays accurate.
 
 [← Back to the front page](README.md)
