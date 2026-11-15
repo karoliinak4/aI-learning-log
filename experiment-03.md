@@ -30,7 +30,7 @@ Canny turns my sketch into a line map, and the model has to follow the lines.
 
 **My guess:** more similar to the sketch, the mistakes from Experiment 2 won't repeat, and the result will look accurate but not very realistic.
 
-![canny strength 1.00](D_canny_strength-1.00.png)
+![canny strength 1.00](images/D_canny_strength-1.00.png)
 
 **Result:** 95% (measured by Claude) of my sketch lines are matching. Mistakes from Experiment 2 were fixed but it doesn't look real at all. My guess was right.
 
@@ -53,11 +53,11 @@ Same prompt, same seed (0), only the strength changes:
 
 | 0.75 | 0.60 | 0.50 | 0.25 |
 | --- | --- | --- | --- |
-| ![0.75](D_canny_strength-0.75.png) | ![0.60](D_canny_strength-0.60.png) | ![0.50](D_canny_strength-0.50.png) | ![0.25](D_canny_strength-0.25.png) |
+| ![0.75](images/D_canny_strength-0.75.png) | ![0.60](images/D_canny_strength-0.60.png) | ![0.50](images/D_canny_strength-0.50.png) | ![0.25](images/D_canny_strength-0.25.png) |
 
 Red = my sketch lines on top of the 0.60 strength canny render:
 
-![overlay canny 0.60](D_overlay_canny-0.60.jpg)
+![overlay canny 0.60](images/D_overlay_canny-0.60.jpg)
 
 **Result:** my guess was right, but surprisingly there's a big difference between 0.75 and 0.50. I chose 0.60 as the best balance and locked it.
 
@@ -73,7 +73,7 @@ Same strength (0.60) and seed, but I added photo words to the end of the prompt:
 
 | Seed 0 | Seed 1 |
 | --- | --- |
-| ![realism prompt seed 0](D_canny_0.60_realism-prompt_seed0.png) | ![realism prompt seed 1](D_canny_0.60_realism-prompt_seed1.png) |
+| ![realism prompt seed 0](images/D_canny_0.60_realism-prompt_seed0.png) | ![realism prompt seed 1](images/D_canny_0.60_realism-prompt_seed1.png) |
 
 **Result:** more realistic light, darker corners and more intense shadows. Still a little artificial. The random rings stayed. A better prompt can't fix something that comes from the sketch lines.
 
@@ -87,13 +87,13 @@ A depth map shows what's near and far instead of lines. I used the same strength
 
 | Depth map | Result |
 | --- | --- |
-| ![depth map](D_depth-map.jpg) | ![depth 0.60](D_depth_0.60_realism-prompt_seed0.png) |
+| ![depth map](images/D_depth-map.jpg) | ![depth 0.60](images/D_depth_0.60_realism-prompt_seed0.png) |
 
 **Result:** realism improved noticeably but geometry didn't. 51% of my sketch lines matched (canny with the same settings: 64%). Errors: the picture became a window, the plant disappeared, the lamps were wrong, and the floor planks run sideways.
 
 **Why:** the depth map shows the room and the items (sofa, tables, lamp shades) but doesn't recognise flat items on a wall (window, door, picture, shelves) and things that are too small or thin. The floor is flat, so it doesn't know which way the planks run. The round cushions did come back as real cushions, rings are gone.
 
-![overlay depth 0.60](D_overlay_depth-0.60.jpg)
+![overlay depth 0.60](images/D_overlay_depth-0.60.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ Setup: depth 0.60 + canny 0.30, same prompt, same seed (0). Depth holds the shap
 
 | Canny 0.60 | Depth 0.60 | Depth 0.60 + canny 0.30 |
 | --- | --- | --- |
-| ![canny](D_canny_0.60_realism-prompt_seed0.png) | ![depth](D_depth_0.60_realism-prompt_seed0.png) | ![both](D_combo_depth0.60_canny0.30.png) |
+| ![canny](images/D_canny_0.60_realism-prompt_seed0.png) | ![depth](images/D_depth_0.60_realism-prompt_seed0.png) | ![both](images/D_combo_depth0.60_canny0.30.png) |
 
 | Same prompt, seed 0 | Sketch lines kept |
 | --- | --- |
@@ -115,7 +115,7 @@ Setup: depth 0.60 + canny 0.30, same prompt, same seed (0). Depth holds the shap
 | Depth 0.60 | 51% |
 | **Depth 0.60 + canny 0.30** | **67%** |
 
-![overlay both](D_overlay_combo.jpg)
+![overlay both](images/D_overlay_combo.jpg)
 
 **Result:** 67% geometry accuracy, so I was right about that.
 
@@ -138,7 +138,7 @@ My guess: the other seeds will score about the same as my first try (67%), maybe
 
 | Seed 1 | Seed 2 |
 | --- | --- |
-| ![seed 1](D_combo_seed1.png) | ![seed 2](D_combo_seed2.png) |
+| ![seed 1](images/D_combo_seed1.png) | ![seed 2](images/D_combo_seed2.png) |
 
 | Seed | Sketch lines kept |
 | --- | --- |

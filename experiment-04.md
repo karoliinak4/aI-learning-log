@@ -18,7 +18,7 @@ I got guidance on this from my brother who is a tech engineer. Round 3 used a to
 
 ### Same living room, three rounds
 
-![The same living room in Round 1, 2 and 3](E4_three-rounds_living-room.jpg)
+![The same living room in Round 1, 2 and 3](images/E4_three-rounds_living-room.jpg)
 
 | | Round 1 | Round 2 | Round 3 |
 |---|---|---|---|
@@ -33,7 +33,7 @@ I got guidance on this from my brother who is a tech engineer. Round 3 used a to
 
 **Round 3:** another level. Soft light, a real view outside, the wallpapers look like the real ones and many other little details, it even wrote the right month in the calendar and didn't miss details on home electronics, and the mirrors work.
 
-![Round 3 rooms](E4_round3_rooms.jpg)
+![Round 3 rooms](images/E4_round3_rooms.jpg)
 
 ### Prompts I used
 

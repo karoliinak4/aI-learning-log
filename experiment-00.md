@@ -8,7 +8,7 @@
 
 ### 1. A '90s supermodel character built from my own face
 
-<img src="E0_character-90s-from-my-face.jpg" alt="90s character from my own face" width="260">
+<img src="images/E0_character-90s-from-my-face.jpg" alt="90s character from my own face" width="260">
 
 **Goal:** There are many trending short "romantic-comedy 90s style" videos on social media at the moment. I want to start creating my own. One of the basic steps is character creation so I have to learn how to master photo creation in that particular style. To challenge it, I wanted one of the characters to have my facial features. The end goal: to be able to use that creation for videos. The small photo in the corner is the real me, for comparison.
 
@@ -26,7 +26,7 @@
 
 ### 2. Thomas, a tech influencer who doesn't look AI
 
-<img src="E0_thomas-tech-influencer.jpg" alt="Thomas, tech influencer" width="420">
+<img src="images/E0_thomas-tech-influencer.jpg" alt="Thomas, tech influencer" width="420">
 
 **Goal:** To try to create a hyperrealistic photo of a tech influencer. As realistic as possible.
 
@@ -42,7 +42,7 @@
 
 ### 3. A concept ad for the Oura ring
 
-<img src="E0_oura-ring-concept-ad.jpg" alt="Oura ring concept ad" width="420">
+<img src="images/E0_oura-ring-concept-ad.jpg" alt="Oura ring concept ad" width="420">
 
 **Goal:** to test product image creation with an invented ad idea: personalising your Oura ring with your initials. The idea was to keep the style of the brand and from technical point of view get the colours, shadows and overall look right and professional.
 

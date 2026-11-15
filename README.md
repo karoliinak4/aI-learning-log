@@ -12,7 +12,7 @@ I'm new to this field. I started learning AI this summer, when I got into AI vid
 
 | My sketch | My best render so far (Experiment 3) |
 | --- | --- |
-| ![sketch](B_input_line-sketch.jpg) | ![depth + canny](D_combo_depth0.60_canny0.30.png) |
+| ![sketch](images/B_input_line-sketch.jpg) | ![depth + canny](images/D_combo_depth0.60_canny0.30.png) |
 
 ## What I found so far
 

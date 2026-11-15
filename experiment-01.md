@@ -17,7 +17,7 @@
 
 | Original photo | Try 1 (fail) | Try 2 |
 | --- | --- | --- |
-| ![original](A_input_living-room-photo.jpg) | ![try 1](A_edit1_floor_verb-prompt_FAIL.png) | ![try 2](A_edit2_floor_descriptive-prompt.png) |
+| ![original](images/A_input_living-room-photo.jpg) | ![try 1](images/A_edit1_floor_verb-prompt_FAIL.png) | ![try 2](images/A_edit2_floor_descriptive-prompt.png) |
 
 **What I learned:** Funny thing: the help page “Edit by prompt” prompt article AND "Best practices for using the AI render editing toolkit" article both said the prompts should start with a verb, but the app (inside render studio) itself said the prompt should describe the end result, no verbs. The app seemed to be right.
 
@@ -27,13 +27,13 @@
 
 | My sketch | With style | No style |
 | --- | --- | --- |
-| ![sketch](B_input_line-sketch.jpg) | ![with style](B_render1_with-style.png) | ![no style](B_render2_no-style.png) |
+| ![sketch](images/B_input_line-sketch.jpg) | ![with style](images/B_render1_with-style.png) | ![no style](images/B_render2_no-style.png) |
 
 Red = my original sketch lines laid over the render:
 
 | With style | No style | Style + daylight edit |
 | --- | --- | --- |
-| ![overlay style](B_overlay_with-style.jpg) | ![overlay no style](B_overlay_no-style.jpg) | ![overlay daylight](B_overlay_style-plus-daylight.jpg) |
+| ![overlay style](images/B_overlay_with-style.jpg) | ![overlay no style](images/B_overlay_no-style.jpg) | ![overlay daylight](images/B_overlay_style-plus-daylight.jpg) |
 
 I used Claude to run the measurement (to see the accuracy) and here’s how it works. It shows how many of my sketch lines still have a matching edge in each render :
 

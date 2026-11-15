@@ -22,7 +22,7 @@ Prompt: "photorealistic modern living room, large window, wooden floor, soft day
 
 | Seed 0 | Seed 1 |
 | --- | --- |
-| ![seed 0](C_run1_short-prompt_seed0.png) | ![seed 1](C_run3_short-prompt_seed1.png) |
+| ![seed 0](images/C_run1_short-prompt_seed0.png) | ![seed 1](images/C_run3_short-prompt_seed1.png) |
 
 **My guess:** small changes, some colours and materials.
 
@@ -39,7 +39,7 @@ The prompt I used:
 
 | My sketch | Seed 0 | Seed 1 |
 | --- | --- | --- |
-| ![sketch](B_input_line-sketch.jpg) | ![long prompt seed 0](C_run4_long-prompt_seed0.png) | ![long prompt seed 1](C_run5_long-prompt_seed1.png) |
+| ![sketch](images/B_input_line-sketch.jpg) | ![long prompt seed 0](images/C_run4_long-prompt_seed0.png) | ![long prompt seed 1](images/C_run5_long-prompt_seed1.png) |
 
 **My guess:** similar to my sketch, but not recognisably the same room.
 
