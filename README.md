@@ -6,7 +6,7 @@ I'm testing how well AI renderers keep the geometry of a room
 (walls, windows, doors, furniture) while making it photorealistic,
 and measuring it instead of just looking.
 
-I'm new to this field. I started studying AI seriously in November 2026, and this repo is my learning log. It started with MyArchitectAI: I tested it, got curious how a tool like that might work behind the scenes, and started rebuilding a similar process myself in ComfyUI.
+I'm new to this field. I started learning AI this summer, when I got into AI video creation and made my first 3D models, and got serious about it in November. This repo is my learning log. It started with MyArchitectAI: I tested it, got curious how a tool like that might work behind the scenes, and started rebuilding a similar process myself in ComfyUI.
 
 **How I work:** I study with Claude. I ask it to explain the concepts, to make me guess the result before every test, and to explain why things happened. I run the tests, write down my guesses and judge the realism myself. Claude helps with the code and the geometry measurement. Each experiment says exactly who did what.
 
