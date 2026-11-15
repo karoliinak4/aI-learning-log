@@ -2,7 +2,7 @@
 
 <!-- Draft written with Claude. Karoliina: make it sound like you, then delete this line. -->
 
-Hi, I'm Karoliina. I'm changing careers into AI image and video generation, and this is where I keep what I make, test and learn.
+Hi, I'm Karoliina. This is where I keep what I make, test and learn in AI.
 
 I started learning AI this summer, when I got into AI video creation and made my first 3D models, and got serious about it in November. My background is project management and web analytics, so I like to test things properly and write down what I find.
 
