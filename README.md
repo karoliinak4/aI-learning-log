@@ -38,7 +38,7 @@ I wanted to understand how AI interior renderers work, so I started with MyArchi
 1. **A style makes it prettier but moves things.** In MyArchitectAI, about 74% of my sketch lines stayed in place without a style, and about 53% with one.
 2. **The prompt decides *what*, the seed decides *where*.** With a short prompt, a new seed gives a completely different room.
 3. **Two guides together work better than one.** Canny kept my lines but looked fake, depth looked real but lost the windows. Both together gave the best balance.
-4. **A good score doesn't mean a good picture.** My most accurate render (95%) looked the least real, so I always look at the result myself too, and try more than one seed.
+4. My most accurate render (95%) looked the least real. So I don't trust the number alone. I always look at the picture myself and try more than one seed.
 
 <details>
 <summary><b>How I measure geometry</b></summary>
