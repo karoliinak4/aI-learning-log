@@ -1,4 +1,4 @@
-# Interior render experiments
+# AI learning log
 
 <!-- Draft written with Claude. Karoliina: make it sound like you, then delete this line. -->
 
