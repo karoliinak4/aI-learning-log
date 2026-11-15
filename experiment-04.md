@@ -1,6 +1,6 @@
 # Experiment 4 — Nov 2026
 
-**Goal:** After discovering Fable 5 easily creates 3d models, I wanted to test it out. I took one real apartment (my parents' home), created a 3d model of it and rebuilt it two times, each time with a newer model. The first result was quite impressive and fun to create so I want to keep doing the same with all new models. I want to see how much better do AI models get at turning a real apartment into a 3D model (sometimes in just a few months).
+**Goal:** I heard that Fable 5 could easily create 3D models, so I wanted to try it. I made a 3D model of a real apartment (my parents' home), and then rebuilt it two more times, each time with a newer AI model. The first result was impressive and fun to make, so I want to keep doing this with every new model, to follow how AI 3D modelling develops: the models, the tools, and how I use them.
 
 **Input every time:** the floor plan (very basic) and around 25 photos of the rooms. I left the address and the floor plan out of this page on purpose.
 
