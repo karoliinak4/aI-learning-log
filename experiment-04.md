@@ -1,7 +1,5 @@
 # Experiment 4 — Nov 2026
 
-<!-- Draft written with Claude from Karoliina's notes. Karoliina: check the brother part and rewrite in your own words. -->
-
 **Goal:** After discovering Fable 5 easily creates 3d models, I wanted to test it out. I took one real apartment (my parents' home), created a 3d model of it and rebuilt it three times, each time with a newer model. The first result was quite impressive and fun to create so I want to keep doing the same with all new models. I want to see how much better do AI models get at turning a real apartment into a 3D model (sometimes in just a few months).
 
 **Input every time:** the floor plan (very basic) and around 25 photos of the rooms. I left the address and the floor plan out of this page on purpose.
@@ -26,19 +24,29 @@ I got guidance on this from my brother who is a tech engineer. Round 3 used a to
 |---|---|---|---|
 | **When** | July 2026 | September 2026 | November 2026 |
 | **Model** | Claude Fable 5 | GPT-6 Astra | Claude Fable 5.2 |
-| **How** | simple prompt to Claude code: "here are images and a floor plan of an apartment please create a 3d model for me." | prompt to codex: " using blender mcp build a beautiful visual 3d model of this home  and make it hyperrealsitic and accurate.  jpg. then host it on some url so i could fly and move around the render. make it first person view."| prompt 1: 
-please create a hyperrealistic 3D model of this home. Look at the files and understand the struckture of this home. 
-Please use ../../3d toolkit for building it -  please use blender to model it and use unreal engine to make it real. Ensure to do proper AAA tier modelling - normal maps, lighting etc. Ensure the model has both fly around and first person view mode. no need for any clicking between rooms, just an exploration tool. "
- |
+| **How** | Claude Code, simple prompt | Codex + Blender | Claude Code + my brother's toolkit, Blender + Unreal Engine |
 | **What I saw** | right layout, but looks like a video game | massive step towards realism, but I noticed many random things and little mistakes | another level, the "wow" moment |
 
-**Round 1:** the layout was right: sofa on the left, dining table by the window, TV on the wall. But everything is flat colours and akward shapes, and part of the wall is missing so you see the sky.
+**Round 1:** the layout was right: sofa on the left, dining table by the window, TV on the wall. But everything is flat colours and awkward shapes, and part of the wall is missing so you see the sky.
 
 **Round 2:** going from Round 1 to 2 was a massive step towards realism. Real materials and light bouncing off the walls. But I also noticed way more random things.
 
-**Round 3:** another level. Soft light, a real view outside, the wallpapers look like the real ones and many other little details, it even wrote the right month in the calendar and didn't miss details on home electromins,also the mirrors work.
+**Round 3:** another level. Soft light, a real view outside, the wallpapers look like the real ones and many other little details, it even wrote the right month in the calendar and didn't miss details on home electronics, and the mirrors work.
 
 ![Round 3 rooms](E4_round3_rooms.jpg)
+
+### Prompts I used
+
+Copied exactly as I typed them.
+
+**Round 1 (Claude Code, Fable 5):**
+> here are images and a floor plan of an apartment please create a 3d model for me.
+
+**Round 2 (Codex, GPT-6 Astra):**
+> using blender mcp build a beautiful visual 3d model of this home  and make it hyperrealsitic and accurate.  jpg. then host it on some url so i could fly and move around the render. make it first person view.
+
+**Round 3 (Claude Code, Fable 5.2):**
+> please create a hyperrealistic 3D model of this home. Look at the files and understand the struckture of this home. Please use ../../3d toolkit for building it -  please use blender to model it and use unreal engine to make it real. Ensure to do proper AAA tier modelling - normal maps, lighting etc. Ensure the model has both fly around and first person view mode. no need for any clicking between rooms, just an exploration tool.
 
 ---
 
