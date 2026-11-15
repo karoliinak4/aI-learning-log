@@ -24,7 +24,7 @@ I rebuilt my parents' apartment in 3D three times between July and November, eac
 
 ## Interior rendering: from sketch to photo
 
-I wanted to understand how AI interior renderers work, so I started with MyArchitectAI, then rebuilt a similar process myself in ComfyUI. My main question: **can the AI make a room look real without moving the walls, windows and furniture?**
+I wanted to understand how AI interior renderers work, so I started with MyArchitectAI, then rebuilt a similar process myself in ComfyUI. What I wanted to find out: can AI make my sketch look like a real photo and still keep everything where I drew it?
 
 - **[Experiment 1 — MyArchitectAI](experiment-01.md):** floor edits on a photo of my living room, and how a style changes a sketch render
 - **[Experiment 2 — ComfyUI basics](experiment-02.md):** my first time in ComfyUI, learning what the prompt and the seed do
